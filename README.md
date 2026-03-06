@@ -1,44 +1,61 @@
-
 # Aleksandar Markovic
 
-Rust / Go backend engineer focused on blockchain infrastructure, distributed systems and low-latency data pipelines.
+Rust / Go backend engineer focused on **blockchain infrastructure, distributed systems and low-latency data pipelines**.
 
-Currently building Web3 infrastructure including blockchain indexers, DeFi price oracles and Solana transaction monitoring systems.
+Currently building Web3 infrastructure including blockchain indexers, DeFi price oracles, MEV systems and Solana transaction monitoring services.
 
 ---
 
-## Web3 Projects
+## Web3 Infrastructure Projects
 
 ### Blockchain Indexer
-High-performance blockchain indexer for processing blocks and transactions.
+High-performance blockchain indexer that processes blocks and transactions and stores them for analytics and APIs.
 
 https://github.com/aleksbgs/blockchain-indexer
 
+---
 
 ### DeFi Price Oracle
-Decentralized price oracle aggregating cryptocurrency market data.
+Decentralized price oracle aggregating cryptocurrency market data from multiple sources.
 
 https://github.com/aleksbgs/defi-price-oracle
 
+---
 
 ### Solana Mempool Watcher
 Low-latency Solana transaction monitoring service streaming blockchain events in real time.
 
 https://github.com/aleksbgs/solana-mempool-watcher
 
+---
+
+### Rust MEV Searcher
+Experimental MEV searcher for detecting arbitrage opportunities across DeFi protocols.
+
+https://github.com/aleksbgs/rust-mev-searcher
 
 ---
 
 ## Tech Stack
 
+**Languages**
+
 Rust  
 Go  
+
+**Infrastructure**
+
 PostgreSQL  
 Redis  
 Docker  
+
+**Domains**
+
 Blockchain  
-Distributed Systems  
 Web3  
+DeFi  
+Distributed Systems  
+Low-latency data pipelines
 
 ---
 
@@ -46,11 +63,19 @@ Web3
 
 Building infrastructure for:
 
-• blockchain data pipelines  
-• DeFi protocols  
-• real-time transaction monitoring  
-• Solana ecosystem
+- blockchain data pipelines  
+- DeFi protocols  
+- MEV searchers and trading infrastructure  
+- real-time transaction monitoring  
+- Solana ecosystem
 
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksbgs&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksbgs&layout=compact&theme=dark)
 
 ---
 
