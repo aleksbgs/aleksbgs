@@ -1,8 +1,26 @@
 # Aleksandar Markovic
 
-Rust / Go / NET backend engineer focused on **blockchain infrastructure, distributed systems and low-latency data pipelines**.
+Full-stack developer focused on modern web applications.
 
-Currently building Web3 infrastructure including blockchain indexers, DeFi price oracles, MEV systems and Solana transaction monitoring services.
+## Tech Stack
+
+Frontend
+- Vue.js
+- TypeScript
+- JavaScript
+- HTML/CSS
+
+Backend
+- .NET / .NET Core
+- Golang
+- REST APIs
+- Microservices
+
+Infrastructure
+- Docker
+- Kubernetes
+- PostgreSQL
+- Redis
 
 ---
 
