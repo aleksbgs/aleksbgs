@@ -13,6 +13,7 @@ Frontend
 Backend
 - .NET / .NET Core
 - Golang
+- Rust
 - REST APIs
 - Microservices
 
