@@ -1,6 +1,6 @@
 # Aleksandar Markovic
 
-Rust / Go backend engineer focused on **blockchain infrastructure, distributed systems and low-latency data pipelines**.
+Rust / Go / NET backend engineer focused on **blockchain infrastructure, distributed systems and low-latency data pipelines**.
 
 Currently building Web3 infrastructure including blockchain indexers, DeFi price oracles, MEV systems and Solana transaction monitoring services.
 
