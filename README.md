@@ -12,6 +12,7 @@ Frontend
 
 Backend
 - .NET / .NET Core
+- Ruby 
 - Golang
 - Rust
 - REST APIs
