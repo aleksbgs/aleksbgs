@@ -1,147 +1,144 @@
-Aleksandar Markovic
+# Aleksandar Markovic
 
 Backend / Distributed Systems Engineer building high-performance data pipelines, financial systems and Web3 infrastructure.
 
 Focused on low-latency backend services, blockchain analytics and large-scale data processing.
 
-Belgrade, Serbia
+Belgrade, Serbia  
 Remote
 
-GitHub
+GitHub  
 https://github.com/aleksbgs
 
-LinkedIn
+LinkedIn  
 https://linkedin.com/in/aleksbgs
 
-⸻
+---
 
-Tech Stack
+# Tech Stack
 
-Backend
-	•	Ruby / Ruby on Rails
-	•	Go
-	•	Rust
-	•	.NET
+## Backend
+- Ruby / Ruby on Rails
+- Go
+- Rust
+- .NET
 
-Frontend
-	•	Vue.js
-	•	TypeScript
-	•	JavaScript
+## Frontend
+- Vue.js
+- TypeScript
+- JavaScript
 
-Infrastructure
-	•	PostgreSQL
-	•	Redis
-	•	Docker
-	•	Kubernetes
+## Infrastructure
+- PostgreSQL
+- Redis
+- Docker
+- Kubernetes
 
-Architecture
-	•	Microservices
-	•	Data pipelines
-	•	Distributed systems
-	•	High-throughput APIs
+## Architecture
+- Microservices
+- Data pipelines
+- Distributed systems
+- High-throughput APIs
 
-⸻
+---
 
-Featured Backend Projects
+# Featured Backend Projects
 
-Crypto Tax Engine (Ruby / Rails)
+## Crypto Tax Engine (Ruby / Rails)
 
 High-performance backend service for ingesting and reconciling cryptocurrency transactions.
 
 Designed as a simplified architecture similar to platforms like Koinly.
 
-Features
-	•	exchange transaction ingestion
-	•	FIFO cost basis calculation
-	•	tax lot reconciliation
-	•	async background processing
-	•	PostgreSQL query optimization
+### Features
+- exchange transaction ingestion
+- FIFO cost basis calculation
+- tax lot reconciliation
+- async background processing
+- PostgreSQL query optimization
 
-Architecture
-	•	Ruby on Rails API
-	•	PostgreSQL
-	•	Sidekiq background workers
+### Architecture
+- Ruby on Rails API
+- PostgreSQL
+- Sidekiq background workers
 
-Repository
-
+Repository  
 https://github.com/aleksbgs/crypto-tax-engine
 
-⸻
+---
 
-Blockchain Indexer
+## Blockchain Indexer
 
 High-performance blockchain indexer that processes blocks and transactions and stores them for analytics and APIs.
 
-Features
-	•	block ingestion pipelines
-	•	event decoding
-	•	indexed blockchain queries
-	•	scalable data processing
+### Features
+- block ingestion pipelines
+- event decoding
+- indexed blockchain queries
+- scalable data processing
 
-Repository
-
+Repository  
 https://github.com/aleksbgs/blockchain-indexer
 
-⸻
+---
 
-DeFi Price Oracle
+## DeFi Price Oracle
 
 Decentralized price oracle aggregating cryptocurrency market data from multiple exchanges.
 
-Features
-	•	real-time price aggregation
-	•	oracle price feeds
-	•	distributed architecture
+### Features
+- real-time price aggregation
+- oracle price feeds
+- distributed architecture
 
-Repository
-
+Repository  
 https://github.com/aleksbgs/defi-price-oracle
 
-⸻
+---
 
-Solana Mempool Watcher
+## Solana Mempool Watcher
 
 Low-latency Solana transaction monitoring service streaming blockchain events in real time.
 
-Features
-	•	mempool monitoring
-	•	transaction streaming
-	•	event processing pipelines
+### Features
+- mempool monitoring
+- transaction streaming
+- event processing pipelines
 
-Repository
-
+Repository  
 https://github.com/aleksbgs/solana-mempool-watcher
 
-⸻
+---
 
-Rust MEV Searcher
+## Rust MEV Searcher
 
 Experimental MEV searcher detecting arbitrage opportunities across DeFi protocols.
 
-Features
-	•	transaction simulation
-	•	arbitrage detection
-	•	DeFi analytics
+### Features
+- transaction simulation
+- arbitrage detection
+- DeFi analytics
 
-Repository
-
+Repository  
 https://github.com/aleksbgs/rust-mev-searcher
 
-⸻
+---
 
-Engineering Focus
+# Engineering Focus
 
 Currently building infrastructure for:
-	•	blockchain data pipelines
-	•	DeFi protocols
-	•	MEV trading infrastructure
-	•	financial transaction reconciliation
-	•	real-time blockchain analytics
 
-⸻
+- blockchain data pipelines
+- DeFi protocols
+- MEV trading infrastructure
+- financial transaction reconciliation
+- real-time blockchain analytics
 
-Domains
-	•	Blockchain infrastructure
-	•	DeFi protocols
-	•	Financial data systems
-	•	Distributed backend services
+---
+
+# Domains
+
+- Blockchain infrastructure
+- DeFi protocols
+- Financial data systems
+- Distributed backend services
